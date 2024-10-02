@@ -9,7 +9,7 @@
     sqlReplica: false
     config:
       APPINSIGHTS_INSTRUMENTATIONKEY: 26f3faa1-f3fb-4bd4-aff4-89d7241cf249
-      reboot: 2
+      reboot: 3
   storefront:
     enabled: false
     imageRepository: virtopaasregistrymain.azurecr.io/virtostart/storefront
