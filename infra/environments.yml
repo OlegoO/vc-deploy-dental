@@ -24,7 +24,7 @@
       enabled: false
   routes:
   - host: dentalstoredemo.govirto.com
-    root: B2B-store
+    root: Dental-store
     paths:
     - path: /xapi
       route: platform
